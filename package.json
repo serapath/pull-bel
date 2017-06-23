@@ -1,0 +1,32 @@
+{
+  "name": "pull-bel",
+  "version": "0.0.1",
+  "description": "A simple library for composable DOM elements using tagged template strings.",
+  "main": "src/pull-bel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/pull-bel.git"
+  },
+  "keywords": [
+    "element",
+    "dom",
+    "template",
+    "bel",
+    "yo-yo",
+    "pull",
+    "pull-stream",
+    "stream",
+    "el",
+    "markup",
+    "html"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/pull-bel/issues"
+  },
+  "homepage": "https://github.com/serapath/pull-bel#readme"
+}
